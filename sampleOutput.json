@@ -1,0 +1,56 @@
+{
+	"status": "ok",
+	"totalResults": 5,
+	"articles": [
+		{
+			"source": { "id": null, "name": "9to5Mac" },
+			"author": "Ben Lovejoy",
+			"title": "App Store changes: EU is watching, is ready to 'take strong action' - 9to5Mac",
+			"description": "There’s been much discussion of Apple’s proposed App Store changes, and whether or not they will satisfy antitrust regulators. The...",
+			"url": "https://9to5mac.com/2024/02/01/app-store-changes-eu-response/",
+			"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/App-Store-changes.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+			"publishedAt": "2024-02-01T12:04:00Z",
+			"content": "There’s been much discussion of Apple’s proposed App Store changes, and whether or not they will satisfy antitrust regulators.\r\nThe EU has so far been non-committal, but has said that it will be exam… [+1946 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Milwaukee Journal Sentinel" },
+			"author": "Lawrence Andrea",
+			"title": "House passes expanded child tax credit with Gwen Moore in opposition - Milwaukee Journal Sentinel",
+			"description": "Milwaukee's Gwen Moore has long championed fighting for low-income children but said the bipartisan tax cut package left the poorest families behind.",
+			"url": "https://www.jsonline.com/story/news/politics/2024/02/01/house-passes-expanded-child-tax-credit-with-gwen-moore-in-opposition/72423204007/",
+			"urlToImage": "https://www.jsonline.com/gcdn/authoring/authoring-images/2024/01/22/PMJS/72317663007-01222023-kamala-vp-roe-001315.JPG?crop=7007,3943,x0,y364&width=3200&height=1801&format=pjpg&auto=webp",
+			"publishedAt": "2024-02-01T10:31:19Z",
+			"content": "WASHINGTON Milwaukee Rep. Gwen Moore has made fighting for low-income children and families the centerpiece of her career in Congress.\r\nPart of that effort has been working to expand the child tax cr… [+6229 chars]"
+		},
+		{
+			"source": { "id": "fox-news", "name": "Fox News" },
+			"author": "Tracy Wright",
+			"title": "Taylor Swift seamlessly blends with Kelce family and team: 'Reached the Super Bowl in her rookie year' - Fox News",
+			"description": "Taylor Swift and Travis Kelce have support from their family after he declared \"I love you\" to the world-famous pop star on the field at the Chiefs game Sunday.",
+			"url": "https://www.foxnews.com/entertainment/taylor-swift-seamlessly-blends-kelce-family-team-reached-the-super-bowl-in-her-rookie-year",
+			"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/taylor-swift-travis-kelce-super-bowl.jpg",
+			"publishedAt": "2024-02-01T09:00:00Z",
+			"content": "Travis Kelce and Taylor Swift know family comes first.\r\nDuring an appearance on Wednesday's episode of \"The Pat McAfee Show,\" Kelce admitted he was well aware of the attention received by his relatio… [+10169 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Chicago Tribune" },
+			"author": "Julia Poe",
+			"title": "Caitlin Clark wows the sellout crowd in Iowa's rout of Northwestern on a historic night in Evanston - Chicago Tribune",
+			"description": "Caitlin Clark became the Big Ten’s all-time scoring leader and moved to No. 2 on the NCAA career list, scoring 35 points in Iowa’s 110-74 rout of Northwestern on Wednesday in Evanston.",
+			"url": "http://www.chicagotribune.com/2024/01/31/caitlin-clark-wows-the-sellout-crowd-in-iowas-rout-of-northwestern-on-a-historic-night-in-evanston/",
+			"urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/01/HMRDP7GDGZC5BKJFLJ72KKTJNE.jpg?w=1024&h=807",
+			"publishedAt": "2024-02-01T04:55:04Z",
+			"content": "Few stars are in higher demand than Caitlin Clark. That proved true Wednesday night in Evanston as a sellout crowd packed Welsh-Ryan Arena to watch Clark and the Iowa Hawkeyes take on Northwestern.\r\n… [+5199 chars]"
+		},
+		{
+			"source": { "id": null, "name": "CNBC" },
+			"author": "Alex Koller",
+			"title": "Apple iPhone shipments may see 'significant decline' in 2024, analyst says - CNBC",
+			"description": "Apple may see a drop in iPhone shipments this year, due in part to the growing popularity of foldable phones, analyst Ming-Chi Kuo says.",
+			"url": "https://www.cnbc.com/2024/01/30/top-apple-analyst-iphone-shipments-fall-2024.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/107299919-16946069982023-09-12t190733z_1211708399_rc2773axfqk8_rtrmadp_0_apple-event.jpeg?v=1695388576&w=1920&h=1080",
+			"publishedAt": "2024-01-30T17:20:58Z",
+			"content": "Shipments of iPhones are likely to take a hit this year due largely to the growing popularity of foldable phones and Huawei's resurgence in the Chinese market, says top Apple analyst Ming-Chi Kuo of … [+1893 chars]"
+		}
+	]
+}
